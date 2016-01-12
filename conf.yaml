@@ -1,20 +1,20 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
 url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
+title: Coderyao的博客
+subtitle: 轻松生活
 theme: simple
 enableCache: true
 highlight: true
 mathjax: false
 duoshuo:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: GitBlog,博客,Markdown博客
 description: >
     GitBlog是一个简单易用的Markdown博客系统
 version: 2.2
 author:
-    name: your-name
+    name: yaoxiaofeng
     email: your-email@example.com
     github: your-github
     weibo: your-weibo
