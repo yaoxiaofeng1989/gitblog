@@ -2,14 +2,14 @@
 ---
 url: /
 title: Coderyao的博客
-subtitle: 轻松生活
-theme: simple
+subtitle: 开心工作，轻松生活
+theme: default
 enableCache: true
 highlight: true
 mathjax: false
 duoshuo:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客
+keywords: PHP,博客,Markdown博客
 description: >
     GitBlog是一个简单易用的Markdown博客系统
 version: 2.2
